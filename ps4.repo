@@ -1,5 +1,0 @@
-[ps4]
-name=ps4-rpms
-baseurl=https://raw.githubusercontent.com/IT-mania/PS4linux-rpm-mesa-git/master/testing
-enabled=1
-gpgcheck=0
